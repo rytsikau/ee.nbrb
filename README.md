@@ -20,7 +20,7 @@
 
 ## Скриншот программы
 
-<img src='https://github.com/rytsikau/ee.yrewind/raw/main/screenshot.png'>
+<img src='https://github.com/rytsikau/ee.nbrb/blob/c9f51e1aa455d1e19942c64698546b828658a519/screenshot_v.20260111.jpg'>
 
 <br>
 
@@ -28,4 +28,5 @@
 
 1C 1С exchange rates archive National Bank of Belarus внешняя обработка курсы валют Нацбанк РБ НБРБ
 
-[program page] [start page] [author e-mail]
+---
+[[start page]](https://rytsikau.github.io) [[author e-mail]](mailto:y.rytsikau@gmail.com)
