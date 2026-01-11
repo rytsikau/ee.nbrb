@@ -1,2 +1,31 @@
-# ee.nbrb
-Exchange rates of the National Bank of Belarus
+# ee.Nbrb
+
+Данное 1С-приложение предназначено для отображения курсов обмена валют, установленных Национальным банком Беларуси. Доступна информация по всем валютам, начиная с 1991 года.
+
+Возможности программы:
+
+* получение актуальных курсов по всем валютам
+* получение курсов на выбранную дату по всем валютам
+* получение курсов по выбранной валюте за произвольный период
+
+## Системные требования:
+* платформа 1С 8.3
+* доступ к Интернету
+
+<br>
+
+# [>> скачать <<](https://github.com/rytsikau/ee.Yrewind/releases/download/20240622/ee.yrewind_24.061.zip)
+
+<br>
+
+## Скриншот программы
+
+<img src='https://github.com/rytsikau/ee.yrewind/raw/main/screenshot.png'>
+
+<br>
+
+## Теги
+
+1C 1С exchange rates archive National Bank of Belarus внешняя обработка курсы валют Нацбанк РБ НБРБ
+
+[program page] [start page] [author e-mail]
