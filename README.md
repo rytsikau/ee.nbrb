@@ -14,7 +14,7 @@
 
 <br>
 
-# [>> скачать <<](https://github.com/rytsikau/ee.nbrb/blob/458b7ef107c70afa430cd7c7a22b7da40ac8b68e/nbrb_v.20260111.epf)
+# [>> скачать <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.01.11/nbrb_v.20260111.epf)
 
 <br>
 
