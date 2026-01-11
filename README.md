@@ -20,7 +20,7 @@
 
 ## Скриншот программы
 
-<img src='https://github.com/rytsikau/ee.nbrb/blob/c9f51e1aa455d1e19942c64698546b828658a519/screenshot_v.20260111.jpg'>
+<img src='https://github.com/rytsikau/ee.nbrb/blob/b5ec72d76f3180db2edbfc41f0bd0ef47dfd3c65/screenshot.jpg'>
 
 <br>
 
