@@ -14,7 +14,7 @@
 
 <br>
 
-# [>> скачать <<](https://github.com/rytsikau/ee.Yrewind/releases/download/20240622/ee.yrewind_24.061.zip)
+# [>> скачать <<](https://github.com/rytsikau/ee.nbrb/blob/458b7ef107c70afa430cd7c7a22b7da40ac8b68e/nbrb_v.20260111.epf)
 
 <br>
 
