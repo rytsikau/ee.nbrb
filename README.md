@@ -21,13 +21,13 @@
 
 <br>
 
-## Скриншот программы (обычная форма)
+## Скриншот (обычная форма)
 
 <img src='https://github.com/rytsikau/ee.nbrb/blob/b5ec72d76f3180db2edbfc41f0bd0ef47dfd3c65/screenshot.jpg'>
 
 <br>
 
-## Скриншот программы (управляемая форма)
+## Скриншот (управляемая форма)
 
 <img src='https://github.com/rytsikau/ee.nbrb/blob/adb7b376a2edb7834e13a5f33326da3a6fa1ef48/screenshot_upr.jpg'>
 
