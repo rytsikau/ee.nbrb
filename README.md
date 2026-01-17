@@ -14,13 +14,20 @@
 
 <br>
 
-# [>> скачать <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.01.11/nbrb_v.20260111.epf)
+# [>> скачать (обычная форма) <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.01.11/nbrb_v.20260111.epf)
+# [>> скачать (управляемая форма) <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.01.11/nbrb_v.20260111.epf)
 
 <br>
 
-## Скриншот программы
+## Скриншот программы (обычная форма)
 
 <img src='https://github.com/rytsikau/ee.nbrb/blob/b5ec72d76f3180db2edbfc41f0bd0ef47dfd3c65/screenshot.jpg'>
+
+<br>
+
+## Скриншот программы (управляемая форма)
+
+<img src='https://github.com/rytsikau/ee.nbrb/blob/adb7b376a2edb7834e13a5f33326da3a6fa1ef48/screenshot_upr.jpg'>
 
 <br>
 
