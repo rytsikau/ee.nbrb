@@ -22,15 +22,15 @@
 
 <br>
 
-## Скриншот (обычная форма)
+## Скриншот (управляемая форма)
 
-<img src='https://github.com/rytsikau/ee.nbrb/blob/b5ec72d76f3180db2edbfc41f0bd0ef47dfd3c65/screenshot.jpg'>
+<img src='https://github.com/rytsikau/ee.nbrb/blob/200651b52343987ceb2aa3f947c0c33cd36542c6/screenshot_upr.jpg'>
 
 <br>
 
-## Скриншот (управляемая форма)
+## Скриншот (обычная форма)
 
-<img src='https://github.com/rytsikau/ee.nbrb/blob/adb7b376a2edb7834e13a5f33326da3a6fa1ef48/screenshot_upr.jpg'>
+<img src='https://github.com/rytsikau/ee.nbrb/blob/b5ec72d76f3180db2edbfc41f0bd0ef47dfd3c65/screenshot.jpg'>
 
 <br>
 
