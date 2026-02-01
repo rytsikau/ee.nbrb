@@ -17,7 +17,7 @@
 
 ## Скачать
 
-# [>> управляемая форма <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.01.31/nbrb_upr.epf)
+# [>> управляемая форма <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.02.01/nbrb_upr.epf)
 # [>> обычная форма <<](https://github.com/rytsikau/ee.nbrb/releases/download/v.2026.01.11/nbrb_v.20260111.epf)
 
 <br>
